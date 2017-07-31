@@ -1,7 +1,7 @@
 {
   "name": "remagin-ssh",
   "version": "0.1.0",
-  "author": "Max Sha <remagin@linuxacademy.com>",
+  "author": "regtak <maksim.shayakhmetov@gmail.com>",
   "summary": "this module will manage ssh.",
   "license": "Apache-2.0",
   "source": "https://github.com/regtak/puppet-ssh.git",
